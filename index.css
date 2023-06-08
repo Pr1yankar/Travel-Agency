@@ -26,8 +26,9 @@ body::-webkit-scrollbar {
     /* margin-bottom: 10vh; */
 }
 .logo{
-    max-width: 100px;
-    min-width: 5px;
+    max-width: 80px;
+    min-width: 2px;
+    grid-row: 1;
 }
 
 .navbar {
